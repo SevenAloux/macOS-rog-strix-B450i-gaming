@@ -1,4 +1,4 @@
-# myMAC
+# macOS-rog-strix-B450i-gaming
 macOS-rog-strix-B450i-gaming
 转自https://www.bilibili.com/video/BV1xv411z75C/
 OC6.0
